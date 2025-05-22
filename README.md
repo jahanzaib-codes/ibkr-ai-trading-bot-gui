@@ -1,8 +1,10 @@
 # 📈 IBKR AI Trading Bot with GUI
 
 A Python-based options trading bot with an interactive GUI, built for **Interactive Brokers (IBKR)**. Integrates real-time data, AI-driven signals, and risk-managed strategies with tiered exits and stop-losses.
-[https://github.com/jahanzaib-codes/ibkr-ai-trading-bot-gui/blob/b72051bdf16078fca9ff44edbce6b3890b2ee49d/Capture.PNG](https://github.com/jahanzaib-codes/ibkr-ai-trading-bot-gui/blob/main/Capture.PNG?raw=true)
----
+<p align="center">
+  <img src="https://github.com/jahanzaib-codes/ibkr-ai-trading-bot-gui/blob/main/Capture.PNG?raw=true" width="600"/>
+</p>
+
 
 ## 🚀 Features
 
