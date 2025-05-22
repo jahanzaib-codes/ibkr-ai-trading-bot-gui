@@ -6,6 +6,7 @@ A Python-based options trading bot with an interactive GUI, built for **Interact
 </p>
 
 
+
 ## 🚀 Features
 
 - ✅ **IBKR Real-Time Connectivity** via `ib_insync`
