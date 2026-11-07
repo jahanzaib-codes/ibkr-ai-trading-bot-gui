@@ -1,4 +1,4 @@
-# 📈 Interactive Brokers (IBKR) AI 0DTE Options Trading Bot & GUI
+﻿# 📈 Interactive Brokers (IBKR) AI 0DTE Options Trading Bot & GUI
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Interactive Brokers](https://img.shields.io/badge/IBKR-TWS_API-E01E2E?style=flat-square)](https://interactivebrokers.com)
@@ -17,7 +17,7 @@
 ### 💼 Need Custom IBKR Algorithms, Options Bots, or Institutional Quant Systems?
 I engineer high-performance trading software, broker API integrations, and machine learning models for hedge funds, prop traders, and private syndicates.
 * 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
-* 💼 **Fiverr Profile:** [jahanzaib313110 (Fiverr Specialist)](https://www.fiverr.com/jahanzaib313110)
+* 💼 **Fiverr Profile:** [Verified Quantitative Developer (Fiverr)](https://tinyurl.com/2wruxnsx)
 * 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
@@ -153,3 +153,4 @@ The built-in backtesting suite lets you evaluate strategy metrics without active
 
 ---
 *Maintained by **Jahanzaib** ([@jahanzaib-codes](https://github.com/jahanzaib-codes))*
+
