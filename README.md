@@ -1,4 +1,4 @@
-﻿# 📈 Interactive Brokers (IBKR) AI 0DTE Options Trading Bot & GUI
+# 📈 Interactive Brokers (IBKR) AI 0DTE Options Trading Bot & GUI
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Interactive Brokers](https://img.shields.io/badge/IBKR-TWS_API-E01E2E?style=flat-square)](https://interactivebrokers.com)
@@ -30,7 +30,8 @@ I engineer high-performance trading software, broker API integrations, and machi
 5. [Prerequisites & TWS / IB Gateway Configuration](#-prerequisites--tws--ib-gateway-configuration)
 6. [Installation & Quickstart](#-installation--quickstart)
 7. [Backtesting Engine](#-backtesting-engine)
-8. [Disclaimer](#-disclaimer)
+8. [Explore Other Quantitative Projects](#-explore-other-quantitative-projects)
+9. [Disclaimer](#-disclaimer)
 
 ---
 
@@ -144,6 +145,17 @@ The built-in backtesting suite lets you evaluate strategy metrics without active
 * Run custom backtests directly from the Tkinter GUI.
 * Adjust starting capital (e.g., `$10,000`), trade allocation percentage, stop-loss threshold, and target tickers.
 * Output logs and equity curve data are preserved in `gui_backtest_log.csv`.
+
+---
+
+## ⭐ Explore Other Quantitative Projects
+
+* ⚡ **[Solana Pump.fun 0-Block Sniper Bot](https://github.com/jahanzaib-codes/solana-pumpfun-sniper-bot)** — Ultra low-latency meme coin sniper powered by Rust, Node.js, and Jito MEV bundles.
+* 🛡️ **[PropFirm MT5 Risk Guardian EA](https://github.com/jahanzaib-codes/propfirm-mt5-risk-guardian)** — Institutional MQL5 risk manager enforcing daily and total drawdown limits for FTMO / FundedNext.
+* 🔮 **[Polymarket Prediction Arbitrage Bot](https://github.com/jahanzaib-codes/polymarket-prediction-arbitrage-bot)** — Real-time binary market arbitrage engine exploiting price discrepancies across predictive books.
+* 📉 **[IBKR Automated Trailing Stop Orders](https://github.com/jahanzaib-codes/ibkr-trailing-orders)** — CSV batch trailing stop limit order dispatcher with loss prevention.
+* 📊 **[Real-Time NASDAQ Screener & ATR Bot](https://github.com/jahanzaib-codes/RealTime-ATR-Screener-Trader)** — Polygon.io WebSocket screener and chandelier execution engine.
+* 📱 **[IBKR Telegram Bot & TradingView Webhook](https://github.com/jahanzaib-codes/ibkr-telegram-trading-bot)** — Webhook listener and remote Telegram trading terminal.
 
 ---
 
