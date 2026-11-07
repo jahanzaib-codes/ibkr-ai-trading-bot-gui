@@ -114,6 +114,10 @@ Before launching the bot, configure Interactive Brokers Trader Workstation (TWS)
    * ✅ **Allow connections from localhost only** (or add `127.0.0.1` to Trusted IP Addresses)
 4. Click **Apply** and **OK**.
 
+<p align="center">
+  <img src="tws_api_settings.jpg" width="700" alt="Interactive Brokers TWS API Settings Configuration" style="border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.3);"/>
+</p>
+
 ---
 
 ## ⚙️ Installation & Quickstart
