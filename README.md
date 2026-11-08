@@ -17,7 +17,7 @@
 ### 💼 Need Custom IBKR Algorithms, Options Bots, or Institutional Quant Systems?
 I engineer high-performance trading software, broker API integrations, and machine learning models for hedge funds, prop traders, and private syndicates.
 * 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
-* 💼 **Fiverr Profile:** [Verified Quantitative Developer (Fiverr)](https://tinyurl.com/2wruxnsx)
+* 💼 **Fiverr Profile:** [Verified Quantitative Developer (Fiverr)](https://www.fiverr.com/jahanzaib313110)
 * 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
